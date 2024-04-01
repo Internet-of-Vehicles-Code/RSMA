@@ -1,16 +1,4 @@
-# RSMA 相关研究团队调研
-
-## 上海科技大学
-### 1. 信息科学与技术学院 毛奕婕 科研团队
-- 主要研究方向：
-    - 6G潜在新型多址接入技术，主要研究速率分拆多址接入(Rate-Splitting Mulitple Access, RSMA)的原理、架构和应用。
-    - 人工智能赋能6G无线通信网络(AI + 6G)，主要研究使用机器学习和深度学习来设计高效的无线网络资源分配算法。使用无线网络赋能分布式机器学习、联邦学习。
-    - 可重构智能超表面(Reconfigurable Intelligent Surface, RIS)辅助的无线网络，如相移设计、波束形成设计和信道估计。
-    - 通信感知一体化网络(Integrated Sensing and Coommunication, ISAC)，主要研究波形设计、干扰管理、资源分配。
-    - 空天地一体化网络(Space-Air-Ground Integrated Network, SAGIN)，主要研究干扰管理、用户调度和协同传输设计。
-- [教师主页](https://sist.shanghaitech.edu.cn/maoyj/main.htm)
-- [IEEE主页](https://ieeexplore.ieee.org/author/37086178897)
-- [Google Scholar](https://scholar.google.com.hk/citations?user=PZtdokoAAAAJ&hl=zh-CN&oi=sra)
+# RSMA 相关研究团队调研（按拼音字母排序）
 
 ## 北京邮电大学
 ### 1. 信息与通信学院 李立华 科研团队(网络与交换国家重点实验室)
@@ -67,6 +55,16 @@
 - [IEEE主页](https://ieeexplore.ieee.org/author/37086333489)
 - [Google Scholar](https://scholar.google.com.hk/citations?user=XmL_1zwAAAAJ&hl=zh-CN&oi=sra)
 
+## 哈尔滨工业大学(深圳)
+### 1. 电子与信息工程学院 焦健 科研团队
+- 主要研究方向：
+  - 面向信息语义的空天地海一体化网络和深空通信关键技术，包括：
+    - 面向空天/深空超远距离高可靠通信的先进编译码和信息语义传输技术，包括模拟喷泉码、极化码、LDPC码等差错控制编码和调制技术、高时效语义传输方案设计等。
+    - 面向5GA/6G的空天地海一体化网络的大规模接入技术和高效语义传输机制，包括基于深度强化学习的语义传输和资源分配策略、高时效接入机制、区块链技术、路由机制、毫米波/激光通信、通信感知一体化等。
+- [教师主页](https://faculty.hitsz.edu.cn/jiaojian)
+- [IEEE主页](https://ieeexplore.ieee.org/author/37864144200)
+- [Google Scholar](https://scholar.google.com/citations?user=n6VIqnwAAAAJ&hl=zh-CN&oi=sra)
+  
 ## 山东交通学院
 ### 1. 信息科学与电器工程学院 刘洪武 科研团队
 - 主要研究方向：
@@ -80,28 +78,18 @@
   -  无线通信隐私保护与安全技术
 - [教师个人主页](https://xdxy.sdjtu.edu.cn/info/1374/5474.htm)
 - [IEEE主页](https://ieeexplore.ieee.org/author/38468080300)
-- [Google Scholar]()
 
-## 浙江大学
-### 1. 信息与电子工程学院 杨照辉 科研团队
+## 上海科技大学
+### 1. 信息科学与技术学院 毛奕婕 科研团队
 - 主要研究方向：
-  - 智能通信计算融合系统。
-  - 语义通信（概率知识图谱、量子计算）。
-  - 边缘学习（联邦学习、多智能体强化学习、拆分学习）。
-  - 全息通信（数字孪生、智能超表面、雷达视频一体化）。
-- [个人主页](https://person.zju.edu.cn/yangzhaohui)
-- [IEEE主页](https://ieeexplore.ieee.org/author/37085667482)
-- [Google Scholar](https://scholar.google.com/citations?user=YNvyKzAAAAAJ)
-
-## 哈尔滨工业大学(深圳)
-### 1. 电子与信息工程学院 焦健 科研团队
-- 主要研究方向：
-  - 面向信息语义的空天地海一体化网络和深空通信关键技术，包括：
-    - 面向空天/深空超远距离高可靠通信的先进编译码和信息语义传输技术，包括模拟喷泉码、极化码、LDPC码等差错控制编码和调制技术、高时效语义传输方案设计等。
-    - 面向5GA/6G的空天地海一体化网络的大规模接入技术和高效语义传输机制，包括基于深度强化学习的语义传输和资源分配策略、高时效接入机制、区块链技术、路由机制、毫米波/激光通信、通信感知一体化等。
-- [教师主页](https://faculty.hitsz.edu.cn/jiaojian)
-- [IEEE主页](https://ieeexplore.ieee.org/author/37864144200)
-- [Google Scholar](https://scholar.google.com/citations?user=n6VIqnwAAAAJ&hl=zh-CN&oi=sra)
+    - 6G潜在新型多址接入技术，主要研究速率分拆多址接入(Rate-Splitting Mulitple Access, RSMA)的原理、架构和应用。
+    - 人工智能赋能6G无线通信网络(AI + 6G)，主要研究使用机器学习和深度学习来设计高效的无线网络资源分配算法。使用无线网络赋能分布式机器学习、联邦学习。
+    - 可重构智能超表面(Reconfigurable Intelligent Surface, RIS)辅助的无线网络，如相移设计、波束形成设计和信道估计。
+    - 通信感知一体化网络(Integrated Sensing and Coommunication, ISAC)，主要研究波形设计、干扰管理、资源分配。
+    - 空天地一体化网络(Space-Air-Ground Integrated Network, SAGIN)，主要研究干扰管理、用户调度和协同传输设计。
+- [教师主页](https://sist.shanghaitech.edu.cn/maoyj/main.htm)
+- [IEEE主页](https://ieeexplore.ieee.org/author/37086178897)
+- [Google Scholar](https://scholar.google.com.hk/citations?user=PZtdokoAAAAJ&hl=zh-CN&oi=sra)
 
 ## 香港大学
 ### 1. Shengyu Zhang
@@ -128,3 +116,14 @@
   - B5G/6G无线通信
 - [个人主页](http://faculty.cumt.edu.cn/CRR/zh_CN/index/191484/list/index.htm)
 - [IEEE主页](https://ieeexplore.ieee.org/author/37086496651)
+
+## 浙江大学
+### 1. 信息与电子工程学院 杨照辉 科研团队
+- 主要研究方向：
+  - 智能通信计算融合系统。
+  - 语义通信（概率知识图谱、量子计算）。
+  - 边缘学习（联邦学习、多智能体强化学习、拆分学习）。
+  - 全息通信（数字孪生、智能超表面、雷达视频一体化）。
+- [个人主页](https://person.zju.edu.cn/yangzhaohui)
+- [IEEE主页](https://ieeexplore.ieee.org/author/37085667482)
+- [Google Scholar](https://scholar.google.com/citations?user=YNvyKzAAAAAJ)
