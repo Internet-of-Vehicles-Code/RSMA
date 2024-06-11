@@ -1,6 +1,4 @@
 # RSMA 相关研究团队调研（按拼音首字母排序）
-<<<<<<< HEAD
-
 ## 北京理工大学
 ### 1. 信息与电子学院 高镇 科研团队
 - 主要研究方向：
@@ -8,8 +6,7 @@
 - [教师主页](https://sie.bit.edu.cn/szdw/jsml/fzhjkxtcyjsj/zgzcfz/6072a181c2d442659cbdd4a68f2bc999.htm)
 - [IEEE主页](https://ieeexplore.ieee.org/author/37073332000)
 - [Google Scholar](https://scholar.google.com.hk/citations?user=4ylyExkAAAAJ&hl=zh-CN&oi=sra)
-=======
->>>>>>> 81b036f19884d465dba7fb4053d27919b5f9c1c4
+
 
 ## 北京邮电大学
 ### 1. 信息与通信学院 李立华 科研团队(网络与交换国家重点实验室)
