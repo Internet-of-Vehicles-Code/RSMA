@@ -98,7 +98,8 @@
     - 可重构智能超表面(Reconfigurable Intelligent Surface, RIS)辅助的无线网络，如相移设计、波束形成设计和信道估计。
     - 通信感知一体化网络(Integrated Sensing and Coommunication, ISAC)，主要研究波形设计、干扰管理、资源分配。
     - 空天地一体化网络(Space-Air-Ground Integrated Network, SAGIN)，主要研究干扰管理、用户调度和协同传输设计。
-- [教师主页](https://sist.shanghaitech.edu.cn/maoyj/main.htm)
+- [教师主页(中)](https://sist.shanghaitech.edu.cn/maoyj/main.htm)
+- [Personal homepage](https://faculty.sist.shanghaitech.edu.cn/faculty/maoyj/index.html)
 - [IEEE主页](https://ieeexplore.ieee.org/author/37086178897)
 - [Google Scholar](https://scholar.google.com.hk/citations?user=PZtdokoAAAAJ&hl=zh-CN&oi=sra)
 
@@ -140,7 +141,7 @@
 - [Google Scholar](https://scholar.google.com/citations?user=YNvyKzAAAAAJ)
 
 ### International research teams
-#### 1 Imperial College London
+#### Imperial College London
 ##### [Wireless Communications and Signal Processing Lab](http://www.ee.ic.ac.uk/bruno.clerckx/People.html)
 [Reaserch](http://www.ee.ic.ac.uk/bruno.clerckx/Research.html)
 [Publication](http://www.ee.ic.ac.uk/bruno.clerckx/Publications.html)
@@ -200,7 +201,6 @@
 - [IEEE homepage](https://ieeexplore.ieee.org/abstract/document/9663192)
 - [Google Scholar](https://scholar.google.com.hk/citations?user=NTQbw4wAAAAJ&hl=zh-CN&oi=sra)
 
-
 **Gui Zhou**
 -  Research Area:
    - Reconfigurable Intelligent Surfaces (RIS) and array signal processing.
@@ -220,6 +220,8 @@
 - [IEEE homepage](https://ieeexplore.ieee.org/author/37087029643)
 
 ## Collected papers
+### Books
+- **Mao, Y., Clerckx, B. (2021). Multiple Access Techniques. In: Lin, X., Lee, N. (eds) 5G and Beyond. Springer, Cham.[[link]](https://link.springer.com/chapter/10.1007/978-3-030-58197-8_3)**
 ### Survey
 - **Mao Y, Clerckx B, Li V O K. Rate-splitting multiple access for downlink communication systems: Bridging, generalizing, and outperforming SDMA and NOMA[J]. EURASIP journal on wireless communications and networking, 2018, 2018: 1-54.[[link]](https://link.springer.com/article/10.1186/s13638-018-1104-7)[[code]](https://github.com/YijieLinaMao/RSMA)**
 - **B. Clerckx et al., "Is NOMA Efficient in Multi-Antenna Networks? A Critical Look at Next Generation Multiple Access Techniques," in IEEE Open Journal of the Communications Society, vol. 2, pp. 1310-1343, 2021, doi: 10.1109/OJCOMS.2021.3084799.[[link]](https://ieeexplore.ieee.org/document/9451194)**
