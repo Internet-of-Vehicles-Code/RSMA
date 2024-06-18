@@ -1,8 +1,9 @@
 # Rate splitting Multiple Access
 
 ## RSMA 相关研究团队调研（按拼音首字母排序）
-### 北京理工大学
-#### 1. 信息与电子学院 高镇 科研团队
+### 国内团队
+#### 北京理工大学
+##### 1. 信息与电子学院 高镇 科研团队
 - 主要研究方向：
 - 超5G/6G移动通信、智能超表面、通信感知一体化、空天地一体化信息网络、物联网机器类通信、边缘计算、人工智能赋能6G通信信号处理等
 - [教师主页](https://sie.bit.edu.cn/szdw/jsml/fzhjkxtcyjsj/zgzcfz/6072a181c2d442659cbdd4a68f2bc999.htm)
@@ -10,16 +11,16 @@
 - [Google Scholar](https://scholar.google.com.hk/citations?user=4ylyExkAAAAJ&hl=zh-CN&oi=sra)
 
 
-### 北京邮电大学
-#### 1. 信息与通信学院 李立华 科研团队(网络与交换国家重点实验室)
+#### 北京邮电大学
+##### 1. 信息与通信学院 李立华 科研团队(网络与交换国家重点实验室)
 - 主要研究方向：
     - 无线大数据与泛在智能系统
     - 宽带移动通信系统新理论及技术、无线大数据
 - [教师主页](https://teacher.bupt.edu.cn/lilihua/zh_CN/index/46229/list/index.htm)
 - [IEEE主页](https://ieeexplore.ieee.org/author/37293043300)
 
-### 大连理工大学
-#### 1. 信息与通信工程学院 刘鑫 科研团队
+#### 大连理工大学
+##### 1. 信息与通信工程学院 刘鑫 科研团队
 - 主要研究方向：
   - 面向6G的空天地一体化通信（包括卫星全球互联网和物联网、无人机空地协同通信、6G通信关键技术、星地一体化高谱效通信）。
   - 人工智能无线通信(利用深度学习、博弈学习、认知学习、强化学习等实现无线通信可靠频谱接入和传输)
@@ -28,8 +29,8 @@
 - [IEEE主页](https://ieeexplore.ieee.org/author/37085582074)
 - [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=Tmfs2YAAAAAJ)
 
-### 东南大学
-#### 1. 信息科学与工程学院 陈明 科研团队
+#### 东南大学
+##### 1. 信息科学与工程学院 陈明 科研团队
 - 主要研究方向：
   - 移动通信系统中的信号处理
   - 移动通信系统的无线资源分配算法
@@ -43,7 +44,7 @@
 - [个人主页](https://radio.seu.edu.cn/2023/1025/c19937a469621/page.htm)
 - [IEEE主页](https://ieeexplore.ieee.org/author/37280976800)
 
-#### 2. 网络空间安全学院 王家恒 科研团队（移动通信国家重点实验室）
+##### 2. 网络空间安全学院 王家恒 科研团队（移动通信国家重点实验室）
 - 主要研究方向：
   - 5G/6G移动通信系统
   - 密集无线网络
@@ -60,13 +61,13 @@
 - [个人主页](https://ncrl.seu.edu.cn/_s257/2023/1023/c17542a469398/page.psp)
 - [IEEE主页](https://ieeexplore.ieee.org/author/37539031300)
 
-### 国防科技大学
-#### 1. Chengcheng Xu(博后)
+#### 国防科技大学
+##### 1. Chengcheng Xu(博后)
 - [IEEE主页](https://ieeexplore.ieee.org/author/37086333489)
 - [Google Scholar](https://scholar.google.com.hk/citations?user=XmL_1zwAAAAJ&hl=zh-CN&oi=sra)
 
-### 哈尔滨工业大学(深圳)
-#### 1. 电子与信息工程学院 焦健 科研团队
+#### 哈尔滨工业大学(深圳)
+##### 1. 电子与信息工程学院 焦健 科研团队
 - 主要研究方向：
   - 面向信息语义的空天地海一体化网络和深空通信关键技术，包括：
     - 面向空天/深空超远距离高可靠通信的先进编译码和信息语义传输技术，包括模拟喷泉码、极化码、LDPC码等差错控制编码和调制技术、高时效语义传输方案设计等。
@@ -75,8 +76,8 @@
 - [IEEE主页](https://ieeexplore.ieee.org/author/37864144200)
 - [Google Scholar](https://scholar.google.com/citations?user=n6VIqnwAAAAJ&hl=zh-CN&oi=sra)
   
-### 山东交通学院
-#### 1. 信息科学与电器工程学院 刘洪武 科研团队
+#### 山东交通学院
+##### 1. 信息科学与电器工程学院 刘洪武 科研团队
 - 主要研究方向：
   - 新一代无线多址接入
   - 移动边缘计算
@@ -89,8 +90,8 @@
 - [教师个人主页](https://xdxy.sdjtu.edu.cn/info/1374/5474.htm)
 - [IEEE主页](https://ieeexplore.ieee.org/author/38468080300)
 
-### 上海科技大学
-#### 1. 信息科学与技术学院 毛奕婕 科研团队
+#### 上海科技大学
+##### 1. 信息科学与技术学院 毛奕婕 科研团队
 - 主要研究方向：
     - 6G潜在新型多址接入技术，主要研究速率分拆多址接入(Rate-Splitting Mulitple Access, RSMA)的原理、架构和应用。
     - 人工智能赋能6G无线通信网络(AI + 6G)，主要研究使用机器学习和深度学习来设计高效的无线网络资源分配算法。使用无线网络赋能分布式机器学习、联邦学习。
@@ -101,16 +102,16 @@
 - [IEEE主页](https://ieeexplore.ieee.org/author/37086178897)
 - [Google Scholar](https://scholar.google.com.hk/citations?user=PZtdokoAAAAJ&hl=zh-CN&oi=sra)
 
-### 香港大学
-#### 1. Shengyu Zhang
+#### 香港大学
+##### 1. Shengyu Zhang
 - 主要研究方向：
   - 车联网
   - 通信系统
   - 非正交多址
 - [IEEE主页](https://ieeexplore.ieee.org/author/37088911587) 
 
-### 中国科学技术大学
-#### 1. 电子工程与信息科学系 卢汉成 研究团队
+#### 中国科学技术大学
+##### 1. 电子工程与信息科学系 卢汉成 研究团队
 - 主要研究方向：
   - 面向5G/B5G/6G的智能通信与多媒体（包括VR/AR/MR）传输
   - 边缘计算
@@ -118,8 +119,8 @@
 - [个人主页](https://eeis.ustc.edu.cn/2010/0825/c2648a19508/page.htm)
 - [IEEE主页](https://ieeexplore.ieee.org/author/37289425200)
 
-### 中国矿业大学
-#### 1、	信息与控制工程学院 陈瑞瑞 科研团队
+#### 中国矿业大学
+##### 1、	信息与控制工程学院 陈瑞瑞 科研团队
 - 主要研究方向：
   - 涡旋电磁波通信
   - 无人机通信
@@ -127,16 +128,96 @@
 - [个人主页](http://faculty.cumt.edu.cn/CRR/zh_CN/index/191484/list/index.htm)
 - [IEEE主页](https://ieeexplore.ieee.org/author/37086496651)
 
-### 浙江大学
-#### 1. 信息与电子工程学院 杨照辉 科研团队
+#### 浙江大学
+##### 1. 信息与电子工程学院 杨照辉 科研团队
 - 主要研究方向：
-  - 智能通信计算融合系统。
-  - 语义通信（概率知识图谱、量子计算）。
-  - 边缘学习（联邦学习、多智能体强化学习、拆分学习）。
-  - 全息通信（数字孪生、智能超表面、雷达视频一体化）。
+  - 智能通信计算融合系统
+  - 语义通信（概率知识图谱、量子计算）
+  - 边缘学习（联邦学习、多智能体强化学习、拆分学习）
+  - 全息通信（数字孪生、智能超表面、雷达视频一体化）
 - [个人主页](https://person.zju.edu.cn/yangzhaohui)
 - [IEEE主页](https://ieeexplore.ieee.org/author/37085667482)
 - [Google Scholar](https://scholar.google.com/citations?user=YNvyKzAAAAAJ)
+
+### International research teams
+#### 1 Imperial College London
+##### [Wireless Communications and Signal Processing Lab](http://www.ee.ic.ac.uk/bruno.clerckx/People.html)
+[Reaserch](http://www.ee.ic.ac.uk/bruno.clerckx/Research.html)
+[Publication](http://www.ee.ic.ac.uk/bruno.clerckx/Publications.html)
+##### **Members as as follows:**
+ **Bruno Clerckx**
+- Research Area:
+    - Multiple AccessNon-orthogonal Multiple Access,Successive Interference Cancellation,Rate Splitting Multiple Access,Additive Noise,Decoding,Reconfigurable Intelligent Surface,Common Part,Achievable Rate,Spectral Efficiency,Private Parts,Beamforming Design,Phase Shift,Orthogonal Multiple
+- [Personal homepage](http://www.ee.ic.ac.uk/bruno.clerckx/index.html)
+- [IEEE homepage](https://ieeexplore.ieee.org/author/37269077900)
+- [Google Scholar](https://scholar.google.co.uk/citations?user=knPmgzsAAAAJ&hl=en)
+
+**Yijie(Lina)  Mao**
+- Research Area:
+  - MIMO communication networks, rate-splitting multiple access and non-orthogonal multiple access for 5G and beyond
+- [Personal homepage](https://sist.shanghaitech.edu.cn/maoyj/main.htm)
+- [IEEE homepage](https://ieeexplore.ieee.org/author/37086178897)
+- [Google Scholar](https://scholar.google.com.hk/citations?user=PZtdokoAAAAJ&hl=zh-CN&oi=sra)
+  
+**Onur Dizdar**
+- Research Area:
+  - Communications, Error-Correcting Codes, Rate-Splitting Multiple Access, non-orthogonal multiple access, Signal Processing
+- [IEEE homepage](https://ieeexplore.ieee.org/author/38266703700)
+- [Google Scholar](https://scholar.google.com.hk/citations?user=Ws8zBXMAAAAJ&hl=zh-CN&oi=sra)
+
+**Longfei Yin**
+- Research Area:
+  - Rate-Splitting Multiple Access, satellite communications, radar and communications
+- [IEEE homepage](https://ieeexplore.ieee.org/author/37088446743)
+- [Google Scholar](https://scholar.google.com.hk/citations?user=HKV0EWsAAAAJ&hl=zh-CN&oi=sra)
+  
+**Yang Zhao**
+- Research Area:
+  - Wireless Information and Power Transfer, Intelligent Reflecting Surfaces
+- [Github](https://github.com/snowztail/rate-splitting-multiple-access-for-downlink-communication-systems)
+
+**Xinze Lyu**
+- Research Area:
+  - Rate-Splitting, radio system prototuping
+- [IEEE homepage](https://ieeexplore.ieee.org/author/325353694497961)
+- [Google Scholar](https://scholar.google.com.hk/citations?user=dhAQftoAAAAJ&hl=zh-CN&oi=sra)
+
+**Yunnuo Xu**
+- Research Area:
+  - Rate-Splitting Multiple Access
+- [IEEE homepage](https://ieeexplore.ieee.org/author/37088994314)
+- [Google Scholar](https://scholar.google.com/citations?user=979z53EAAAAJ&hl=zh-CN&oi=sra)
+
+**Jiawei Xu**
+- Research Area:
+  - Rate-Splitting Multiple Access
+- [IEEE homepage](https://ieeexplore.ieee.org/author/37089722068)
+- [Google Scholar](https://scholar.google.com/citations?user=mFRRgPcAAAAJ&hl=zh-CN&oi=sra)
+
+**Anup Mishra**
+- Research Area:
+  - Rate-Splitting, Communication Theory, Massive MIMO
+- [IEEE homepage](https://ieeexplore.ieee.org/abstract/document/9663192)
+- [Google Scholar](https://scholar.google.com.hk/citations?user=NTQbw4wAAAAJ&hl=zh-CN&oi=sra)
+
+
+**Gui Zhou**
+-  Research Area:
+   - Reconfigurable Intelligent Surfaces (RIS) and array signal processing.
+- [IEEE homepage](https://ieeexplore.ieee.org/author/37088415204)
+- [Google Scholar](https://scholar.google.com/citations?user=PMLUoekAAAAJ&hl=zh-CN&oi=sra)
+
+**Chengcheng Xu**
+- Research Area:
+   - Integrated sensing and communications, AI-assisted spectrum sensing, and VLSI design for signal processing
+- [IEEE homepage](https://ieeexplore.ieee.org/author/37086333489)
+- [Google Scholar](https://scholar.google.com.hk/citations?user=XmL_1zwAAAAJ&hl=zh-CN&oi=sra)
+
+**Huiyun Xia**
+- Research Areas:
+  - physical-layer security, rate splitting multiple access, interference management, and wireless network optimization with its applications into multiple-input–multiple-output communication networks.
+- She is a visiting PhD student from Harbin Institute of Technology.
+- [IEEE homepage](https://ieeexplore.ieee.org/author/37087029643)
 
 ## Collected papers
 ### Survey
