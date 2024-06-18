@@ -145,7 +145,7 @@
 ##### [Wireless Communications and Signal Processing Lab](http://www.ee.ic.ac.uk/bruno.clerckx/People.html)
 [Reaserch](http://www.ee.ic.ac.uk/bruno.clerckx/Research.html)
 [Publication](http://www.ee.ic.ac.uk/bruno.clerckx/Publications.html)
-##### **Members as as follows:**
+##### **Members are as follows:**
  **Bruno Clerckx**
 - Research Area:
     - Multiple AccessNon-orthogonal Multiple Access,Successive Interference Cancellation,Rate Splitting Multiple Access,Additive Noise,Decoding,Reconfigurable Intelligent Surface,Common Part,Achievable Rate,Spectral Efficiency,Private Parts,Beamforming Design,Phase Shift,Orthogonal Multiple
