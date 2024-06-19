@@ -1,4 +1,4 @@
-# Rate splitting Multiple Access
+# Rate Splitting Multiple Access
 
 ## RSMA 相关研究团队调研（按拼音首字母排序）
 ### 国内团队
@@ -156,7 +156,7 @@
 ##### [Wireless Communications and Signal Processing Lab](http://www.ee.ic.ac.uk/bruno.clerckx/People.html)
 [Reaserch](http://www.ee.ic.ac.uk/bruno.clerckx/Research.html)
 [Publication](http://www.ee.ic.ac.uk/bruno.clerckx/Publications.html)
-[YouTube](https://www.youtube.com/@prof.brunoclerckx1530)
+
 ##### **Members are as follows:**
  **Bruno Clerckx**
 - Research Area:
@@ -164,6 +164,7 @@
 - [Personal homepage](http://www.ee.ic.ac.uk/bruno.clerckx/index.html)
 - [IEEE homepage](https://ieeexplore.ieee.org/author/37269077900)
 - [Google Scholar](https://scholar.google.co.uk/citations?user=knPmgzsAAAAJ&hl=en)
+- [YouTube](https://www.youtube.com/@prof.brunoclerckx1530)
 
 **Yijie(Lina)  Mao**
 - Research Area:
