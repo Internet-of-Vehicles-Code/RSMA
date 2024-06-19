@@ -9,8 +9,7 @@
 - [教师主页](https://sie.bit.edu.cn/szdw/jsml/fzhjkxtcyjsj/zgzcfz/6072a181c2d442659cbdd4a68f2bc999.htm)
 - [IEEE主页](https://ieeexplore.ieee.org/author/37073332000)
 - [Google Scholar](https://scholar.google.com.hk/citations?user=4ylyExkAAAAJ&hl=zh-CN&oi=sra)
-
-
+  
 #### 北京邮电大学
 ##### 1. 信息与通信学院 李立华 科研团队(网络与交换国家重点实验室)
 - 主要研究方向：
@@ -19,6 +18,18 @@
 - [教师主页](https://teacher.bupt.edu.cn/lilihua/zh_CN/index/46229/list/index.htm)
 - [IEEE主页](https://ieeexplore.ieee.org/author/37293043300)
 
+#### 重庆邮电大学
+##### 1. 通信与信息工程学院 徐勇军 科研团队
+- 主要研究方向：
+  - B5G/6G通信
+  - 智能超表面
+  - 通感一体化
+  - 车联网协同驾驶关键技术
+  - 空天地一体化异构融合网络
+- [教师主页](https://faculty.cqupt.edu.cn/xuyj/zh_CN/index.htm)
+- [IEEE主页](https://ieeexplore.ieee.org/author/37089732139)
+- [Google Scholar](https://scholar.google.com.hk/citations?user=dXpIOQUAAAAJ&hl=zh-CN&oi=sra)
+  
 #### 大连理工大学
 ##### 1. 信息与通信工程学院 刘鑫 科研团队
 - 主要研究方向：
@@ -145,6 +156,7 @@
 ##### [Wireless Communications and Signal Processing Lab](http://www.ee.ic.ac.uk/bruno.clerckx/People.html)
 [Reaserch](http://www.ee.ic.ac.uk/bruno.clerckx/Research.html)
 [Publication](http://www.ee.ic.ac.uk/bruno.clerckx/Publications.html)
+[YouTube](https://www.youtube.com/@prof.brunoclerckx1530)
 ##### **Members are as follows:**
  **Bruno Clerckx**
 - Research Area:
