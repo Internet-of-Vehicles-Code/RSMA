@@ -73,9 +73,19 @@
 - [IEEE主页](https://ieeexplore.ieee.org/author/37539031300)
 
 #### 国防科技大学
-##### 1. Chengcheng Xu(博后)
+##### 1. 许程成(博后)
 - [IEEE主页](https://ieeexplore.ieee.org/author/37086333489)
 - [Google Scholar](https://scholar.google.com.hk/citations?user=XmL_1zwAAAAJ&hl=zh-CN&oi=sra)
+
+#### 哈尔滨工业大学
+##### 1.电子与信息工程学院 韩帅 科研团队
+- 主要研究方向：
+  - 智能通信:物理层设计
+  - 无线通信:物理层技术与安全
+  - 卫星通信和导航:遥测、跟踪和指挥
+- [个人主页](https://www.x-mol.com/university/faculty/301057)
+- [IEEE主页](https://ieeexplore.ieee.org/author/38239008200)
+- [Google Scholar](https://scholar.google.com.hk/citations?user=wCcwfOcAAAAJ&hl=zh-CN&oi=sra)
 
 #### 哈尔滨工业大学(深圳)
 ##### 1. 电子与信息工程学院 焦健 科研团队
@@ -86,6 +96,13 @@
 - [教师主页](https://faculty.hitsz.edu.cn/jiaojian)
 - [IEEE主页](https://ieeexplore.ieee.org/author/37864144200)
 - [Google Scholar](https://scholar.google.com/citations?user=n6VIqnwAAAAJ&hl=zh-CN&oi=sra)
+
+#### 兰州交通大学
+##### 1. 电子与信息工程学院 黄海燕 科研团队
+- 主要研究方向：
+  - 云网边端协同、新型多址接入技术、物理层安全、无人机通信
+- [教师主页](https://dxxy.lzjtu.edu.cn/info/1364/8422.htm)
+- [IEEE主页](https://ieeexplore.ieee.org/author/38266787300)
   
 #### 山东交通学院
 ##### 1. 信息科学与电器工程学院 刘洪武 科研团队
