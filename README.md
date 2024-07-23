@@ -258,6 +258,11 @@
 - **Y. Mao, O. Dizdar, B. Clerckx, R. Schober, P. Popovski and H. V. Poor, "Rate-Splitting Multiple Access: Fundamentals, Survey, and Future Research Trends," in IEEE Communications Surveys & Tutorials, vol. 24, no. 4, pp. 2073-2126, Fourthquarter 2022, doi: 10.1109/COMST.2022.3191937.[[link]](https://ieeexplore.ieee.org/document/9831440)**
 - **B. Clerckx et al., "A Primer on Rate-Splitting Multiple Access: Tutorial, Myths, and Frequently Asked Questions," in IEEE Journal on Selected Areas in Communications, vol. 41, no. 5, pp. 1265-1308, May 2023, doi: 10.1109/JSAC.2023.3242718.[[link]](https://ieeexplore.ieee.org/document/10038476)[[lecture1]](https://www.youtube.com/watch?v=OB5YzL8pJ48)[[lecture2]](https://www.youtube.com/watch?v=H8e-PLvU3lM)**
 - **Clerckx B, Mao Y, Yang Z, et al. Multiple Access Techniques for Intelligent and Multi-Functional 6G: Tutorial, Survey, and Outlook[J]. arXiv preprint arXiv:2401.01433, 2024.[[link]](https://arxiv.org/abs/2401.01433)**
+### Letters
+- **A. Mishra, Y. Mao, O. Dizdar and B. Clerckx, "Rate-Splitting Multiple Access for 6G—Part I: Principles, Applications and Future Works," in IEEE Communications Letters, vol. 26, no. 10, pp. 2232-2236, Oct. 2022, doi: 10.1109/LCOMM.2022.3192012.[[link]](https://ieeexplore.ieee.org/document/9832611)**
+- **L. Yin, Y. Mao, O. Dizdar and B. Clerckx, "Rate-Splitting Multiple Access for 6G—Part II: Interplay With Integrated Sensing and Communications," in IEEE Communications Letters, vol. 26, no. 10, pp. 2237-2241, Oct. 2022, doi: 10.1109/LCOMM.2022.3192032.[[link]](https://ieeexplore.ieee.org/document/9832622)**
+- **H. Li, Y. Mao, O. Dizdar and B. Clerckx, "Rate-Splitting Multiple Access for 6G—Part III: Interplay With Reconfigurable Intelligent Surfaces," in IEEE Communications Letters, vol. 26, no. 10, pp. 2242-2246, Oct. 2022, doi: 10.1109/LCOMM.2022.3192041.[[link]](https://ieeexplore.ieee.org/document/9832618)** 
+
 
 ### Paper with code
 - **Mao Y, Clerckx B, Li V O K. Rate-splitting multiple access for downlink communication systems: Bridging, generalizing, and outperforming SDMA and NOMA[J]. EURASIP journal on wireless communications and networking, 2018, 2018: 1-54.[[link]](https://link.springer.com/article/10.1186/s13638-018-1104-7)[[code]](https://github.com/YijieLinaMao/RSMA)**
