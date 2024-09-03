@@ -190,6 +190,7 @@
 - [IEEE homepage](https://ieeexplore.ieee.org/author/37086178897)
 - [Google Scholar](https://scholar.google.com.hk/citations?user=PZtdokoAAAAJ&hl=zh-CN&oi=sra)
   
+
 **Onur Dizdar**
 - Research Area:
   - Communications, Error-Correcting Codes, Rate-Splitting Multiple Access, non-orthogonal multiple access, Signal Processing
@@ -202,6 +203,7 @@
 - [IEEE homepage](https://ieeexplore.ieee.org/author/37088446743)
 - [Google Scholar](https://scholar.google.com.hk/citations?user=HKV0EWsAAAAJ&hl=zh-CN&oi=sra)
   
+
 **Yang Zhao**
 - Research Area:
   - Wireless Information and Power Transfer, Intelligent Reflecting Surfaces
@@ -277,3 +279,4 @@
 - **K. Shen and W. Yu, "Fractional Programming for Communication Systems—Part I: Power Control and Beamforming," in IEEE Transactions on Signal Processing, vol. 66, no. 10, pp. 2616-2630, 15 May15, 2018, doi: 10.1109/TSP.2018.2812733.[[link]](https://ieeexplore.ieee.org/document/8314727)**
 - **K. Shen and W. Yu, "Fractional Programming for Communication Systems—Part II: Uplink Scheduling via Matching," in IEEE Transactions on Signal Processing, vol. 66, no. 10, pp. 2631-2644, 15 May15, 2018, doi: 10.1109/TSP.2018.2812748.[[link]](https://ieeexplore.ieee.org/document/8310563)**
 - **Y. Sun, P. Babu and D. P. Palomar, "Majorization-Minimization Algorithms in Signal Processing, Communications, and Machine Learning," in IEEE Transactions on Signal Processing, vol. 65, no. 3, pp. 794-816, 1 Feb.1, 2017, doi: 10.1109/TSP.2016.2601299.[[link]](https://ieeexplore.ieee.org/document/7547360)**
+- **Y. -F. Liu et al., "A Survey of Recent Advances in Optimization Methods for Wireless Communications," in IEEE Journal on Selected Areas in Communications, doi: 10.1109/JSAC.2024.3443759.[[link]](https://ieeexplore.ieee.org/abstract/document/10636212)**
