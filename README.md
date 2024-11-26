@@ -190,6 +190,7 @@
 - [IEEE homepage](https://ieeexplore.ieee.org/author/37086178897)
 - [Google Scholar](https://scholar.google.com.hk/citations?user=PZtdokoAAAAJ&hl=zh-CN&oi=sra)
   
+
 **Onur Dizdar**
 - Research Area:
   - Communications, Error-Correcting Codes, Rate-Splitting Multiple Access, non-orthogonal multiple access, Signal Processing
@@ -202,6 +203,7 @@
 - [IEEE homepage](https://ieeexplore.ieee.org/author/37088446743)
 - [Google Scholar](https://scholar.google.com.hk/citations?user=HKV0EWsAAAAJ&hl=zh-CN&oi=sra)
   
+
 **Yang Zhao**
 - Research Area:
   - Wireless Information and Power Transfer, Intelligent Reflecting Surfaces
@@ -258,9 +260,16 @@
 - **Y. Mao, O. Dizdar, B. Clerckx, R. Schober, P. Popovski and H. V. Poor, "Rate-Splitting Multiple Access: Fundamentals, Survey, and Future Research Trends," in IEEE Communications Surveys & Tutorials, vol. 24, no. 4, pp. 2073-2126, Fourthquarter 2022, doi: 10.1109/COMST.2022.3191937.[[link]](https://ieeexplore.ieee.org/document/9831440)**
 - **B. Clerckx et al., "A Primer on Rate-Splitting Multiple Access: Tutorial, Myths, and Frequently Asked Questions," in IEEE Journal on Selected Areas in Communications, vol. 41, no. 5, pp. 1265-1308, May 2023, doi: 10.1109/JSAC.2023.3242718.[[link]](https://ieeexplore.ieee.org/document/10038476)[[lecture1]](https://www.youtube.com/watch?v=OB5YzL8pJ48)[[lecture2]](https://www.youtube.com/watch?v=H8e-PLvU3lM)**
 - **Clerckx B, Mao Y, Yang Z, et al. Multiple Access Techniques for Intelligent and Multi-Functional 6G: Tutorial, Survey, and Outlook[J]. arXiv preprint arXiv:2401.01433, 2024.[[link]](https://arxiv.org/abs/2401.01433)**
+### Letters
+- **A. Mishra, Y. Mao, O. Dizdar and B. Clerckx, "Rate-Splitting Multiple Access for 6G—Part I: Principles, Applications and Future Works," in IEEE Communications Letters, vol. 26, no. 10, pp. 2232-2236, Oct. 2022, doi: 10.1109/LCOMM.2022.3192012.[[link]](https://ieeexplore.ieee.org/document/9832611)**
+- **L. Yin, Y. Mao, O. Dizdar and B. Clerckx, "Rate-Splitting Multiple Access for 6G—Part II: Interplay With Integrated Sensing and Communications," in IEEE Communications Letters, vol. 26, no. 10, pp. 2237-2241, Oct. 2022, doi: 10.1109/LCOMM.2022.3192032.[[link]](https://ieeexplore.ieee.org/document/9832622)**
+- **H. Li, Y. Mao, O. Dizdar and B. Clerckx, "Rate-Splitting Multiple Access for 6G—Part III: Interplay With Reconfigurable Intelligent Surfaces," in IEEE Communications Letters, vol. 26, no. 10, pp. 2242-2246, Oct. 2022, doi: 10.1109/LCOMM.2022.3192041.[[link]](https://ieeexplore.ieee.org/document/9832618)** 
+
 
 ### Paper with code
 - **Mao Y, Clerckx B, Li V O K. Rate-splitting multiple access for downlink communication systems: Bridging, generalizing, and outperforming SDMA and NOMA[J]. EURASIP journal on wireless communications and networking, 2018, 2018: 1-54.[[link]](https://link.springer.com/article/10.1186/s13638-018-1104-7)[[code]](https://github.com/YijieLinaMao/RSMA)**
+- **H. Guo, Y. -C. Liang, J. Chen and E. G. Larsson, "Weighted Sum-Rate Maximization for Reconfigurable Intelligent Surface Aided Wireless Networks," in IEEE Transactions on Wireless Communications, vol. 19, no. 5, pp. 3064-3076, May 2020, doi: 10.1109/TWC.2020.2970061.
+  [[link]](https://ieeexplore.ieee.org/document/8982186)[[code]](https://github.com/guohuayan/WSR_maximization_for_RIS_system)**
 - **M. Wu, Z. Gao, Y. Huang, Z. Xiao, D. W. K. Ng and Z. Zhang, "Deep Learning-Based Rate-Splitting Multiple Access for Reconfigurable Intelligent Surface-Aided Tera-Hertz Massive MIMO," in IEEE Journal on Selected Areas in Communications, vol. 41, no. 5, pp. 1431-1451, May 2023, doi: 10.1109/JSAC.2023.3240781.[[link]](https://ieeexplore.ieee.org/document/10032139)[[code]](https://github.com/wuminghui123/DL_RSMA)**
 - **F. Luo and Y. Mao, "A Practical Max-Min Fair Resource Allocation Algorithm for Rate-Splitting Multiple Access," in IEEE Communications Letters, vol. 27, no. 12, pp. 3285-3289, Dec. 2023, doi: 10.1109/LCOMM.2023.3329149.[[link]](https://ieeexplore.ieee.org/document/10304220)[[code]](https://github.com/YijieLinaMao/RSMA-low-complexity-MaxMin)**
 - **B. -J. Chen, R. Y. Chang, F. -T. Chien and H. V. Poor, "Energy-Efficient Multi-RIS-Aided Rate-Splitting Multiple Access: A Graph Neural Network Approach," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2024.3400927.[[link]](https://ieeexplore.ieee.org/document/10530383)[[code]](https://github.com/BingJiaChen/RSMA_GNN_EE)**
@@ -272,3 +281,4 @@
 - **K. Shen and W. Yu, "Fractional Programming for Communication Systems—Part I: Power Control and Beamforming," in IEEE Transactions on Signal Processing, vol. 66, no. 10, pp. 2616-2630, 15 May15, 2018, doi: 10.1109/TSP.2018.2812733.[[link]](https://ieeexplore.ieee.org/document/8314727)**
 - **K. Shen and W. Yu, "Fractional Programming for Communication Systems—Part II: Uplink Scheduling via Matching," in IEEE Transactions on Signal Processing, vol. 66, no. 10, pp. 2631-2644, 15 May15, 2018, doi: 10.1109/TSP.2018.2812748.[[link]](https://ieeexplore.ieee.org/document/8310563)**
 - **Y. Sun, P. Babu and D. P. Palomar, "Majorization-Minimization Algorithms in Signal Processing, Communications, and Machine Learning," in IEEE Transactions on Signal Processing, vol. 65, no. 3, pp. 794-816, 1 Feb.1, 2017, doi: 10.1109/TSP.2016.2601299.[[link]](https://ieeexplore.ieee.org/document/7547360)**
+- **Y. -F. Liu et al., "A Survey of Recent Advances in Optimization Methods for Wireless Communications," in IEEE Journal on Selected Areas in Communications, doi: 10.1109/JSAC.2024.3443759.[[link]](https://ieeexplore.ieee.org/abstract/document/10636212)**
