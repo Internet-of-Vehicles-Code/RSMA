@@ -272,6 +272,9 @@
 - **M. Wu, Z. Gao, Y. Huang, Z. Xiao, D. W. K. Ng and Z. Zhang, "[Deep Learning-Based Rate-Splitting Multiple Access for Reconfigurable Intelligent Surface-Aided Tera-Hertz Massive MIMO](https://ieeexplore.ieee.org/document/10032139)," in IEEE Journal on Selected Areas in Communications, vol. 41, no. 5, pp. 1431-1451, May 2023, doi: 10.1109/JSAC.2023.3240781.[[code]](https://github.com/wuminghui123/DL_RSMA)**
 - **F. Luo and Y. Mao, "[A Practical Max-Min Fair Resource Allocation Algorithm for Rate-Splitting Multiple Access](https://ieeexplore.ieee.org/document/10304220)," in IEEE Communications Letters, vol. 27, no. 12, pp. 3285-3289, Dec. 2023, doi: 10.1109/LCOMM.2023.3329149.[[code]](https://github.com/YijieLinaMao/RSMA-low-complexity-MaxMin)**
 - **B. -J. Chen, R. Y. Chang, F. -T. Chien and H. V. Poor, "[Energy-Efficient Multi-RIS-Aided Rate-Splitting Multiple Access: A Graph Neural Network Approach](https://ieeexplore.ieee.org/document/10530383)," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2024.3400927.[[code]](https://github.com/BingJiaChen/RSMA_GNN_EE)**
+- **R. -J. Reifert, Y. Karacora, D. S. V. Suárez, D. S. R. Rico, D. M. A. Mosquera and A. Sezgin, "[A Practical Study of Rate-Splitting Multiple Access: Single vs. Multiple Common Messages](https://ieeexplore.ieee.org/document/10694543)," 2024 IEEE 25th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Lucca, Italy, 2024, pp. 596-600, doi: 10.1109/SPAWC60668.2024.10694543.[[code]](https://github.com/dviracachas/LabVIEW-Tx-Rx-Workbench)**
+
+
 
 ### Optimization
 - **Z. -q. Luo, W. -k. Ma, A. M. -c. So, Y. Ye and S. Zhang, "[Semidefinite Relaxation of Quadratic Optimization Problems](https://ieeexplore.ieee.org/document/5447068)," in IEEE Signal Processing Magazine, vol. 27, no. 3, pp. 20-34, May 2010, doi: 10.1109/MSP.2010.936019.**
