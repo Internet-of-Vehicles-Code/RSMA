@@ -139,6 +139,20 @@
   - 非正交多址
 - [IEEE主页](https://ieeexplore.ieee.org/author/37088911587) 
 
+#### 西南交通大学
+###### 1. 信息科学与技术学院 刘刚 科研团队
+- 主要研究方向：
+  - 下一代无线网络协议设计与优化
+  - 通感一体化理论与技术
+  - 无线通信与AI关键技术
+  - 无线定位及多模融合定位技术
+  - 轨道交通无线通信与应用
+  - 车联网
+  - 嵌入式系统设计与开发
+  - [教师主页](https://faculty.swjtu.edu.cn/liugang/zh_CN/zdylm/162052/list/index.htm)
+  - [IEEE主页](https://faculty.swjtu.edu.cn/liugang/zh_CN/zdylm/162052/list/index.htm)
+  - [Google Scholar](https://scholar.google.com.hk/citations?user=08suZn4AAAAJ&hl=zh-CN&oi=sra)
+
 #### 中国科学技术大学
 ##### 1. 电子工程与信息科学系 卢汉成 研究团队
 - 主要研究方向：
@@ -273,8 +287,7 @@
 - **F. Luo and Y. Mao, "[A Practical Max-Min Fair Resource Allocation Algorithm for Rate-Splitting Multiple Access](https://ieeexplore.ieee.org/document/10304220)," in IEEE Communications Letters, vol. 27, no. 12, pp. 3285-3289, Dec. 2023, doi: 10.1109/LCOMM.2023.3329149.[[code]](https://github.com/YijieLinaMao/RSMA-low-complexity-MaxMin)**
 - **B. -J. Chen, R. Y. Chang, F. -T. Chien and H. V. Poor, "[Energy-Efficient Multi-RIS-Aided Rate-Splitting Multiple Access: A Graph Neural Network Approach](https://ieeexplore.ieee.org/document/10530383)," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2024.3400927.[[code]](https://github.com/BingJiaChen/RSMA_GNN_EE)**
 - **R. -J. Reifert, Y. Karacora, D. S. V. Suárez, D. S. R. Rico, D. M. A. Mosquera and A. Sezgin, "[A Practical Study of Rate-Splitting Multiple Access: Single vs. Multiple Common Messages](https://ieeexplore.ieee.org/document/10694543)," 2024 IEEE 25th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Lucca, Italy, 2024, pp. 596-600, doi: 10.1109/SPAWC60668.2024.10694543.[[code]](https://github.com/dviracachas/LabVIEW-Tx-Rx-Workbench)**
-
-
+- **Y. Wang, T. Fang and Y. Mao, "[An Efficient Beamforming Optimization Framework for Generalized Rate-Splitting with Imperfect CSIT](https://ieeexplore.ieee.org/document/10938379)," in IEEE Transactions on Communications, doi: 10.1109/TCOMM.2025.3552748.[[code]](https://github.com/YijieLinaMao/GRS-FP-HFPI)**
 
 ### Optimization
 - **Z. -q. Luo, W. -k. Ma, A. M. -c. So, Y. Ye and S. Zhang, "[Semidefinite Relaxation of Quadratic Optimization Problems](https://ieeexplore.ieee.org/document/5447068)," in IEEE Signal Processing Magazine, vol. 27, no. 3, pp. 20-34, May 2010, doi: 10.1109/MSP.2010.936019.**
