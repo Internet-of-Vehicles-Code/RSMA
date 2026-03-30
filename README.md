@@ -2,8 +2,6 @@
 
 这是一个围绕 `Rate Splitting Multiple Access (RSMA)` 的研究资料索引，主要整理了相关研究团队、代表性学者、综述论文、带代码论文以及若干优化方法参考文献。
 
-当前内容更偏向“资料导航”而不是“项目使用说明”，适合用来快速了解 RSMA 研究版图、顺着作者找论文，或者从论文跳转到公开代码实现。
-
 ## 导航
 - [Rate Splitting Multiple Access](#rate-splitting-multiple-access)
   - [导航](#导航)
