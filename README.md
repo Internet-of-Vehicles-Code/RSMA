@@ -1,269 +1,65 @@
 # Rate Splitting Multiple Access
 
+这是一个围绕 `Rate Splitting Multiple Access (RSMA)` 的研究资料索引，主要整理了相关研究团队、代表性学者、综述论文、带代码论文以及若干优化方法参考文献。
+
+当前内容更偏向“资料导航”而不是“项目使用说明”，适合用来快速了解 RSMA 研究版图、顺着作者找论文，或者从论文跳转到公开代码实现。
+
+## 导航
+- [研究团队整理](#rsma-相关研究团队调研按拼音首字母排序)
+- [国内团队](#国内团队)
+- [International research teams](#international-research-teams)
+- [Collected papers](#collected-papers)
+- [Books](#books)
+- [Survey](#survey)
+- [Letters](#letters)
+- [Paper with code](#paper-with-code)
+- [Optimization](#optimization)
+
 ## RSMA 相关研究团队调研（按拼音首字母排序）
 ### 国内团队
-#### 北京理工大学
-##### 1. 信息与电子学院 高镇 科研团队
-- 主要研究方向：
-- 超5G/6G移动通信、智能超表面、通信感知一体化、空天地一体化信息网络、物联网机器类通信、边缘计算、人工智能赋能6G通信信号处理等
-- [教师主页](https://sie.bit.edu.cn/szdw/jsml/fzhjkxtcyjsj/zgzcfz/6072a181c2d442659cbdd4a68f2bc999.htm)
-- [IEEE主页](https://ieeexplore.ieee.org/author/37073332000)
-- [Google Scholar](https://scholar.google.com.hk/citations?user=4ylyExkAAAAJ&hl=zh-CN&oi=sra)
-  
-#### 北京邮电大学
-##### 1. 信息与通信学院 李立华 科研团队(网络与交换国家重点实验室)
-- 主要研究方向：
-    - 无线大数据与泛在智能系统
-    - 宽带移动通信系统新理论及技术、无线大数据
-- [教师主页](https://teacher.bupt.edu.cn/lilihua/zh_CN/index/46229/list/index.htm)
-- [IEEE主页](https://ieeexplore.ieee.org/author/37293043300)
+按“学校 / 院系或实验室 / 老师或团队 / 关键词 / 链接”拆成短字段表格，查找会更直接。
 
-#### 重庆邮电大学
-##### 1. 通信与信息工程学院 徐勇军 科研团队
-- 主要研究方向：
-  - B5G/6G通信
-  - 智能超表面
-  - 通感一体化
-  - 车联网协同驾驶关键技术
-  - 空天地一体化异构融合网络
-- [教师主页](https://faculty.cqupt.edu.cn/xuyj/zh_CN/index.htm)
-- [IEEE主页](https://ieeexplore.ieee.org/author/37089732139)
-- [Google Scholar](https://scholar.google.com.hk/citations?user=dXpIOQUAAAAJ&hl=zh-CN&oi=sra)
-  
-#### 大连理工大学
-##### 1. 信息与通信工程学院 刘鑫 科研团队
-- 主要研究方向：
-  - 面向6G的空天地一体化通信（包括卫星全球互联网和物联网、无人机空地协同通信、6G通信关键技术、星地一体化高谱效通信）。
-  - 人工智能无线通信(利用深度学习、博弈学习、认知学习、强化学习等实现无线通信可靠频谱接入和传输)
-  - 新一代物联网技术(以智慧城市为依托，研究传感器节点的智慧互联和协作感知)。
-- [个人主页](http://faculty.dlut.edu.cn/liuxin/zh_CN/index.htm)
-- [IEEE主页](https://ieeexplore.ieee.org/author/37085582074)
-- [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=Tmfs2YAAAAAJ)
-
-#### 东南大学
-##### 1. 信息科学与工程学院 陈明 科研团队
-- 主要研究方向：
-  - 移动通信系统中的信号处理
-  - 移动通信系统的无线资源分配算法
-  - 移动边缘计算系统（MEC）无线与计算资源的联合分配
-  - 复杂异构移动通信系统的网络规划理论
-  - 可见光通信系统理论与关键技术
-  - 卫星移动通信系统星座规划、无线资源分配及信号传输
-  - 机器学习方法在移动通信中的应用
-  - 排队论与网络性能分析
-  - 最优化理论及算法研究
-- [个人主页](https://radio.seu.edu.cn/2023/1025/c19937a469621/page.htm)
-- [IEEE主页](https://ieeexplore.ieee.org/author/37280976800)
-
-##### 2. 网络空间安全学院 王家恒 科研团队（移动通信国家重点实验室）
-- 主要研究方向：
-  - 5G/6G移动通信系统
-  - 密集无线网络
-  - 区块链技术
-  - 物联网
-  - 机器学习
-  - 边缘计算
-  - MIMO/大规模MIMO传输
-  - 毫米波通信
-  - 无线光通信
-  - 鲁棒性设计
-  - 分布式算法设计
-  - 绿色通信、协作通信、认知无线电。
-- [个人主页](https://ncrl.seu.edu.cn/_s257/2023/1023/c17542a469398/page.psp)
-- [IEEE主页](https://ieeexplore.ieee.org/author/37539031300)
-
-#### 国防科技大学
-##### 1. 许程成(博后)
-- [IEEE主页](https://ieeexplore.ieee.org/author/37086333489)
-- [Google Scholar](https://scholar.google.com.hk/citations?user=XmL_1zwAAAAJ&hl=zh-CN&oi=sra)
-
-#### 哈尔滨工业大学
-##### 1.电子与信息工程学院 韩帅 科研团队
-- 主要研究方向：
-  - 智能通信:物理层设计
-  - 无线通信:物理层技术与安全
-  - 卫星通信和导航:遥测、跟踪和指挥
-- [个人主页](https://www.x-mol.com/university/faculty/301057)
-- [IEEE主页](https://ieeexplore.ieee.org/author/38239008200)
-- [Google Scholar](https://scholar.google.com.hk/citations?user=wCcwfOcAAAAJ&hl=zh-CN&oi=sra)
-
-#### 哈尔滨工业大学(深圳)
-##### 1. 电子与信息工程学院 焦健 科研团队
-- 主要研究方向：
-  - 面向信息语义的空天地海一体化网络和深空通信关键技术，包括：
-    - 面向空天/深空超远距离高可靠通信的先进编译码和信息语义传输技术，包括模拟喷泉码、极化码、LDPC码等差错控制编码和调制技术、高时效语义传输方案设计等。
-    - 面向5GA/6G的空天地海一体化网络的大规模接入技术和高效语义传输机制，包括基于深度强化学习的语义传输和资源分配策略、高时效接入机制、区块链技术、路由机制、毫米波/激光通信、通信感知一体化等。
-- [教师主页](https://faculty.hitsz.edu.cn/jiaojian)
-- [IEEE主页](https://ieeexplore.ieee.org/author/37864144200)
-- [Google Scholar](https://scholar.google.com/citations?user=n6VIqnwAAAAJ&hl=zh-CN&oi=sra)
-
-#### 兰州交通大学
-##### 1. 电子与信息工程学院 黄海燕 科研团队
-- 主要研究方向：
-  - 云网边端协同、新型多址接入技术、物理层安全、无人机通信
-- [教师主页](https://dxxy.lzjtu.edu.cn/info/1364/8422.htm)
-- [IEEE主页](https://ieeexplore.ieee.org/author/38266787300)
-  
-#### 山东交通学院
-##### 1. 信息科学与电器工程学院 刘洪武 科研团队
-- 主要研究方向：
-  - 新一代无线多址接入
-  - 移动边缘计算
-  - 可重构智能超表面通信
-  -  无线可见光通信
-  -  车路智能协同
-  -  车联网与自动驾驶
-  -  无人机通信
-  -  无线通信隐私保护与安全技术
-- [教师个人主页](https://xdxy.sdjtu.edu.cn/info/1374/5474.htm)
-- [IEEE主页](https://ieeexplore.ieee.org/author/38468080300)
-
-#### 上海科技大学
-##### 1. 信息科学与技术学院 毛奕婕 科研团队
-- 主要研究方向：
-    - 6G潜在新型多址接入技术，主要研究速率分拆多址接入(Rate-Splitting Mulitple Access, RSMA)的原理、架构和应用。
-    - 人工智能赋能6G无线通信网络(AI + 6G)，主要研究使用机器学习和深度学习来设计高效的无线网络资源分配算法。使用无线网络赋能分布式机器学习、联邦学习。
-    - 可重构智能超表面(Reconfigurable Intelligent Surface, RIS)辅助的无线网络，如相移设计、波束形成设计和信道估计。
-    - 通信感知一体化网络(Integrated Sensing and Coommunication, ISAC)，主要研究波形设计、干扰管理、资源分配。
-    - 空天地一体化网络(Space-Air-Ground Integrated Network, SAGIN)，主要研究干扰管理、用户调度和协同传输设计。
-- [教师主页(中)](https://sist.shanghaitech.edu.cn/maoyj/main.htm)
-- [Personal homepage](https://faculty.sist.shanghaitech.edu.cn/faculty/maoyj/index.html)
-- [IEEE主页](https://ieeexplore.ieee.org/author/37086178897)
-- [Google Scholar](https://scholar.google.com.hk/citations?user=PZtdokoAAAAJ&hl=zh-CN&oi=sra)
-
-#### 香港大学
-##### 1. Shengyu Zhang
-- 主要研究方向：
-  - 车联网
-  - 通信系统
-  - 非正交多址
-- [IEEE主页](https://ieeexplore.ieee.org/author/37088911587) 
-
-#### 西南交通大学
-###### 1. 信息科学与技术学院 刘刚 科研团队
-- 主要研究方向：
-  - 下一代无线网络协议设计与优化
-  - 通感一体化理论与技术
-  - 无线通信与AI关键技术
-  - 无线定位及多模融合定位技术
-  - 轨道交通无线通信与应用
-  - 车联网
-  - 嵌入式系统设计与开发
-  - [教师主页](https://faculty.swjtu.edu.cn/liugang/zh_CN/zdylm/162052/list/index.htm)
-  - [IEEE主页](https://faculty.swjtu.edu.cn/liugang/zh_CN/zdylm/162052/list/index.htm)
-  - [Google Scholar](https://scholar.google.com.hk/citations?user=08suZn4AAAAJ&hl=zh-CN&oi=sra)
-
-#### 中国科学技术大学
-##### 1. 电子工程与信息科学系 卢汉成 研究团队
-- 主要研究方向：
-  - 面向5G/B5G/6G的智能通信与多媒体（包括VR/AR/MR）传输
-  - 边缘计算
-  - 未来网络技术
-- [个人主页](https://eeis.ustc.edu.cn/2010/0825/c2648a19508/page.htm)
-- [IEEE主页](https://ieeexplore.ieee.org/author/37289425200)
-
-#### 中国矿业大学
-##### 1、	信息与控制工程学院 陈瑞瑞 科研团队
-- 主要研究方向：
-  - 涡旋电磁波通信
-  - 无人机通信
-  - B5G/6G无线通信
-- [个人主页](http://faculty.cumt.edu.cn/CRR/zh_CN/index/191484/list/index.htm)
-- [IEEE主页](https://ieeexplore.ieee.org/author/37086496651)
-
-#### 浙江大学
-##### 1. 信息与电子工程学院 杨照辉 科研团队
-- 主要研究方向：
-  - 智能通信计算融合系统
-  - 语义通信（概率知识图谱、量子计算）
-  - 边缘学习（联邦学习、多智能体强化学习、拆分学习）
-  - 全息通信（数字孪生、智能超表面、雷达视频一体化）
-- [个人主页](https://person.zju.edu.cn/yangzhaohui)
-- [IEEE主页](https://ieeexplore.ieee.org/author/37085667482)
-- [Google Scholar](https://scholar.google.com/citations?user=YNvyKzAAAAAJ)
+| 学校/机构 | 院系/实验室 | 老师/团队 | 关键词 | 主页 | IEEE | Scholar/其他 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 北京理工大学 | 信息与电子学院 | 高镇团队 | 超5G/6G、智能超表面、通感一体化、空天地一体化、边缘计算、AI for 6G | [教师主页](https://sie.bit.edu.cn/szdw/jsml/fzhjkxtcyjsj/zgzcfz/6072a181c2d442659cbdd4a68f2bc999.htm) | [IEEE](https://ieeexplore.ieee.org/author/37073332000) | [Google Scholar](https://scholar.google.com.hk/citations?user=4ylyExkAAAAJ&hl=zh-CN&oi=sra) |
+| 北京邮电大学 | 信息与通信学院（网络与交换国家重点实验室） | 李立华团队 | 无线大数据、泛在智能、宽带移动通信理论与技术 | [教师主页](https://teacher.bupt.edu.cn/lilihua/zh_CN/index/46229/list/index.htm) | [IEEE](https://ieeexplore.ieee.org/author/37293043300) | - |
+| 重庆邮电大学 | 通信与信息工程学院 | 徐勇军团队 | B5G/6G、智能超表面、通感一体化、车联网、空天地一体化 | [教师主页](https://faculty.cqupt.edu.cn/xuyj/zh_CN/index.htm) | [IEEE](https://ieeexplore.ieee.org/author/37089732139) | [Google Scholar](https://scholar.google.com.hk/citations?user=dXpIOQUAAAAJ&hl=zh-CN&oi=sra) |
+| 大连理工大学 | 信息与通信工程学院 | 刘鑫团队 | 空天地一体化通信、AI无线通信、新一代物联网 | [个人主页](http://faculty.dlut.edu.cn/liuxin/zh_CN/index.htm) | [IEEE](https://ieeexplore.ieee.org/author/37085582074) | [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=Tmfs2YAAAAAJ) |
+| 东南大学 | 信息科学与工程学院 | 陈明团队 | 信号处理、资源分配、MEC、网络规划、可见光通信、优化 | [个人主页](https://radio.seu.edu.cn/2023/1025/c19937a469621/page.htm) | [IEEE](https://ieeexplore.ieee.org/author/37280976800) | - |
+| 东南大学 | 网络空间安全学院（移动通信国家重点实验室） | 王家恒团队 | 5G/6G、密集网络、区块链、物联网、毫米波、鲁棒设计 | [个人主页](https://ncrl.seu.edu.cn/_s257/2023/1023/c17542a469398/page.psp) | [IEEE](https://ieeexplore.ieee.org/author/37539031300) | - |
+| 国防科技大学 | - | 许程成（博后） | - | - | [IEEE](https://ieeexplore.ieee.org/author/37086333489) | [Google Scholar](https://scholar.google.com.hk/citations?user=XmL_1zwAAAAJ&hl=zh-CN&oi=sra) |
+| 哈尔滨工业大学 | 电子与信息工程学院 | 韩帅团队 | 智能通信、物理层安全、卫星通信与导航 | [个人主页](https://www.x-mol.com/university/faculty/301057) | [IEEE](https://ieeexplore.ieee.org/author/38239008200) | [Google Scholar](https://scholar.google.com.hk/citations?user=wCcwfOcAAAAJ&hl=zh-CN&oi=sra) |
+| 哈尔滨工业大学（深圳） | 电子与信息工程学院 | 焦健团队 | 空天地海一体化、深空通信、语义通信、大规模接入、毫米波/激光、通感一体化 | [教师主页](https://faculty.hitsz.edu.cn/jiaojian) | [IEEE](https://ieeexplore.ieee.org/author/37864144200) | [Google Scholar](https://scholar.google.com/citations?user=n6VIqnwAAAAJ&hl=zh-CN&oi=sra) |
+| 兰州交通大学 | 电子与信息工程学院 | 黄海燕团队 | 云网边端协同、多址接入、物理层安全、无人机通信 | [教师主页](https://dxxy.lzjtu.edu.cn/info/1364/8422.htm) | [IEEE](https://ieeexplore.ieee.org/author/38266787300) | - |
+| 山东交通学院 | 信息科学与电器工程学院 | 刘洪武团队 | 无线多址接入、移动边缘计算、RIS、无线可见光、车联网、无人机通信 | [教师个人主页](https://xdxy.sdjtu.edu.cn/info/1374/5474.htm) | [IEEE](https://ieeexplore.ieee.org/author/38468080300) | - |
+| 上海科技大学 | 信息科学与技术学院 | 毛奕婕团队 | RSMA、AI+6G、RIS、ISAC、SAGIN | [教师主页（中）](https://sist.shanghaitech.edu.cn/maoyj/main.htm)<br>[Personal homepage](https://faculty.sist.shanghaitech.edu.cn/faculty/maoyj/index.html) | [IEEE](https://ieeexplore.ieee.org/author/37086178897) | [Google Scholar](https://scholar.google.com.hk/citations?user=PZtdokoAAAAJ&hl=zh-CN&oi=sra) |
+| 香港大学 | - | Shengyu Zhang | 车联网、通信系统、非正交多址 | - | [IEEE](https://ieeexplore.ieee.org/author/37088911587) | - |
+| 西南交通大学 | 信息科学与技术学院 | 刘刚团队 | 网络协议设计、通感一体化、AI通信、定位、轨交通信、车联网 | [教师主页](https://faculty.swjtu.edu.cn/liugang/zh_CN/zdylm/162052/list/index.htm) | [IEEE](https://faculty.swjtu.edu.cn/liugang/zh_CN/zdylm/162052/list/index.htm) | [Google Scholar](https://scholar.google.com.hk/citations?user=08suZn4AAAAJ&hl=zh-CN&oi=sra) |
+| 中国科学技术大学 | 电子工程与信息科学系 | 卢汉成团队 | 5G/B5G/6G、智能通信、多媒体传输、边缘计算、未来网络 | [个人主页](https://eeis.ustc.edu.cn/2010/0825/c2648a19508/page.htm) | [IEEE](https://ieeexplore.ieee.org/author/37289425200) | - |
+| 中国矿业大学 | 信息与控制工程学院 | 陈瑞瑞团队 | 涡旋电磁波、无人机通信、B5G/6G | [个人主页](http://faculty.cumt.edu.cn/CRR/zh_CN/index/191484/list/index.htm) | [IEEE](https://ieeexplore.ieee.org/author/37086496651) | - |
+| 浙江大学 | 信息与电子工程学院 | 杨照辉团队 | 智能通信计算融合、语义通信、边缘学习、全息通信 | [个人主页](https://person.zju.edu.cn/yangzhaohui) | [IEEE](https://ieeexplore.ieee.org/author/37085667482) | [Google Scholar](https://scholar.google.com/citations?user=YNvyKzAAAAAJ) |
 
 ### International research teams
-#### Imperial College London
-##### [Wireless Communications and Signal Processing Lab](http://www.ee.ic.ac.uk/bruno.clerckx/People.html)
-[Reaserch](http://www.ee.ic.ac.uk/bruno.clerckx/Research.html)
-[Publication](http://www.ee.ic.ac.uk/bruno.clerckx/Publications.html)
+也改成按列展开的资料表。
 
-##### **Members are as follows:**
- **Bruno Clerckx**
-- Research Area:
-    - Multiple AccessNon-orthogonal Multiple Access,Successive Interference Cancellation,Rate Splitting Multiple Access,Additive Noise,Decoding,Reconfigurable Intelligent Surface,Common Part,Achievable Rate,Spectral Efficiency,Private Parts,Beamforming Design,Phase Shift,Orthogonal Multiple
-- [Personal homepage](http://www.ee.ic.ac.uk/bruno.clerckx/index.html)
-- [IEEE homepage](https://ieeexplore.ieee.org/author/37269077900)
-- [Google Scholar](https://scholar.google.co.uk/citations?user=knPmgzsAAAAJ&hl=en)
-- [YouTube](https://www.youtube.com/@prof.brunoclerckx1530)
+| 团队 | 实验室入口 |
+| --- | --- |
+| Imperial College London / Wireless Communications and Signal Processing Lab | [People](http://www.ee.ic.ac.uk/bruno.clerckx/People.html)<br>[Research](http://www.ee.ic.ac.uk/bruno.clerckx/Research.html)<br>[Publication](http://www.ee.ic.ac.uk/bruno.clerckx/Publications.html) |
 
-**Yijie(Lina)  Mao**
-- Research Area:
-  - MIMO communication networks, rate-splitting multiple access and non-orthogonal multiple access for 5G and beyond
-- [Personal homepage](https://sist.shanghaitech.edu.cn/maoyj/main.htm)
-- [IEEE homepage](https://ieeexplore.ieee.org/author/37086178897)
-- [Google Scholar](https://scholar.google.com.hk/citations?user=PZtdokoAAAAJ&hl=zh-CN&oi=sra)
-  
-
-**Onur Dizdar**
-- Research Area:
-  - Communications, Error-Correcting Codes, Rate-Splitting Multiple Access, non-orthogonal multiple access, Signal Processing
-- [IEEE homepage](https://ieeexplore.ieee.org/author/38266703700)
-- [Google Scholar](https://scholar.google.com.hk/citations?user=Ws8zBXMAAAAJ&hl=zh-CN&oi=sra)
-
-**Longfei Yin**
-- Research Area:
-  - Rate-Splitting Multiple Access, satellite communications, radar and communications
-- [IEEE homepage](https://ieeexplore.ieee.org/author/37088446743)
-- [Google Scholar](https://scholar.google.com.hk/citations?user=HKV0EWsAAAAJ&hl=zh-CN&oi=sra)
-  
-
-**Yang Zhao**
-- Research Area:
-  - Wireless Information and Power Transfer, Intelligent Reflecting Surfaces
-- [Github](https://github.com/snowztail/rate-splitting-multiple-access-for-downlink-communication-systems)
-
-**Xinze Lyu**
-- Research Area:
-  - Rate-Splitting, radio system prototuping
-- [IEEE homepage](https://ieeexplore.ieee.org/author/325353694497961)
-- [Google Scholar](https://scholar.google.com.hk/citations?user=dhAQftoAAAAJ&hl=zh-CN&oi=sra)
-
-**Yunnuo Xu**
-- Research Area:
-  - Rate-Splitting Multiple Access
-- [IEEE homepage](https://ieeexplore.ieee.org/author/37088994314)
-- [Google Scholar](https://scholar.google.com/citations?user=979z53EAAAAJ&hl=zh-CN&oi=sra)
-
-**Jiawei Xu**
-- Research Area:
-  - Rate-Splitting Multiple Access
-- [IEEE homepage](https://ieeexplore.ieee.org/author/37089722068)
-- [Google Scholar](https://scholar.google.com/citations?user=mFRRgPcAAAAJ&hl=zh-CN&oi=sra)
-
-**Anup Mishra**
-- Research Area:
-  - Rate-Splitting, Communication Theory, Massive MIMO
-- [IEEE homepage](https://ieeexplore.ieee.org/abstract/document/9663192)
-- [Google Scholar](https://scholar.google.com.hk/citations?user=NTQbw4wAAAAJ&hl=zh-CN&oi=sra)
-
-**Gui Zhou**
--  Research Area:
-   - Reconfigurable Intelligent Surfaces (RIS) and array signal processing.
-- [IEEE homepage](https://ieeexplore.ieee.org/author/37088415204)
-- [Google Scholar](https://scholar.google.com/citations?user=PMLUoekAAAAJ&hl=zh-CN&oi=sra)
-
-**Chengcheng Xu**
-- Research Area:
-   - Integrated sensing and communications, AI-assisted spectrum sensing, and VLSI design for signal processing
-- [IEEE homepage](https://ieeexplore.ieee.org/author/37086333489)
-- [Google Scholar](https://scholar.google.com.hk/citations?user=XmL_1zwAAAAJ&hl=zh-CN&oi=sra)
-
-**Huiyun Xia**
-- Research Areas:
-  - physical-layer security, rate splitting multiple access, interference management, and wireless network optimization with its applications into multiple-input–multiple-output communication networks.
-- She is a visiting PhD student from Harbin Institute of Technology.
-- [IEEE homepage](https://ieeexplore.ieee.org/author/37087029643)
+| 成员 | 关键词 | 主页 | IEEE | Scholar/其他 | 备注 |
+| --- | --- | --- | --- | --- | --- |
+| Bruno Clerckx | Multiple Access、NOMA、SIC、RSMA、RIS、Beamforming | [Personal homepage](http://www.ee.ic.ac.uk/bruno.clerckx/index.html) | [IEEE](https://ieeexplore.ieee.org/author/37269077900) | [Google Scholar](https://scholar.google.co.uk/citations?user=knPmgzsAAAAJ&hl=en)<br>[YouTube](https://www.youtube.com/@prof.brunoclerckx1530) | - |
+| Yijie (Lina) Mao | MIMO、RSMA、NOMA、5G and beyond | [Personal homepage](https://sist.shanghaitech.edu.cn/maoyj/main.htm) | [IEEE](https://ieeexplore.ieee.org/author/37086178897) | [Google Scholar](https://scholar.google.com.hk/citations?user=PZtdokoAAAAJ&hl=zh-CN&oi=sra) | - |
+| Onur Dizdar | Communications、Error-Correcting Codes、RSMA、NOMA、Signal Processing | - | [IEEE](https://ieeexplore.ieee.org/author/38266703700) | [Google Scholar](https://scholar.google.com.hk/citations?user=Ws8zBXMAAAAJ&hl=zh-CN&oi=sra) | - |
+| Longfei Yin | RSMA、satellite communications、radar and communications | - | [IEEE](https://ieeexplore.ieee.org/author/37088446743) | [Google Scholar](https://scholar.google.com.hk/citations?user=HKV0EWsAAAAJ&hl=zh-CN&oi=sra) | - |
+| Yang Zhao | WIPT、Intelligent Reflecting Surfaces | - | - | [GitHub](https://github.com/snowztail/rate-splitting-multiple-access-for-downlink-communication-systems) | - |
+| Xinze Lyu | RSMA、radio system prototyping | - | [IEEE](https://ieeexplore.ieee.org/author/325353694497961) | [Google Scholar](https://scholar.google.com.hk/citations?user=dhAQftoAAAAJ&hl=zh-CN&oi=sra) | - |
+| Yunnuo Xu | RSMA | - | [IEEE](https://ieeexplore.ieee.org/author/37088994314) | [Google Scholar](https://scholar.google.com/citations?user=979z53EAAAAJ&hl=zh-CN&oi=sra) | - |
+| Jiawei Xu | RSMA | - | [IEEE](https://ieeexplore.ieee.org/author/37089722068) | [Google Scholar](https://scholar.google.com/citations?user=mFRRgPcAAAAJ&hl=zh-CN&oi=sra) | - |
+| Anup Mishra | RSMA、Communication Theory、Massive MIMO | - | [IEEE](https://ieeexplore.ieee.org/abstract/document/9663192) | [Google Scholar](https://scholar.google.com.hk/citations?user=NTQbw4wAAAAJ&hl=zh-CN&oi=sra) | - |
+| Gui Zhou | RIS、array signal processing | - | [IEEE](https://ieeexplore.ieee.org/author/37088415204) | [Google Scholar](https://scholar.google.com/citations?user=PMLUoekAAAAJ&hl=zh-CN&oi=sra) | - |
+| Chengcheng Xu | ISAC、AI-assisted spectrum sensing、VLSI for signal processing | - | [IEEE](https://ieeexplore.ieee.org/author/37086333489) | [Google Scholar](https://scholar.google.com.hk/citations?user=XmL_1zwAAAAJ&hl=zh-CN&oi=sra) | - |
+| Huiyun Xia | Physical-layer security、RSMA、interference management、wireless optimization、MIMO | - | [IEEE](https://ieeexplore.ieee.org/author/37087029643) | - | Visiting PhD student from Harbin Institute of Technology |
 
 ## Collected papers
 ### Books
@@ -296,14 +92,16 @@
 - **K. Shen and W. Yu, "[Fractional Programming for Communication Systems—Part I: Power Control and Beamforming](https://ieeexplore.ieee.org/document/8314727)," in IEEE Transactions on Signal Processing, vol. 66, no. 10, pp. 2616-2630, 15 May15, 2018, doi: 10.1109/TSP.2018.2812733.[[code]](https://kaimingshen.github.io/publications.html)**
 - **K. Shen and W. Yu, "[Fractional Programming for Communication Systems—Part II: Uplink Scheduling via Matching](https://ieeexplore.ieee.org/document/8310563)," in IEEE Transactions on Signal Processing, vol. 66, no. 10, pp. 2631-2644, 15 May15, 2018, doi: 10.1109/TSP.2018.2812748.[[code]](https://kaimingshen.github.io/publications.html)**
 - **Y. Sun, P. Babu and D. P. Palomar, "[Majorization-Minimization Algorithms in Signal Processing, Communications, and Machine Learning](https://ieeexplore.ieee.org/document/7547360)," in IEEE Transactions on Signal Processing, vol. 65, no. 3, pp. 794-816, 1 Feb.1, 2017, doi: 10.1109/TSP.2016.2601299.**
-- **Y. -F. Liu et al., "[A Survey of Recent Advances in Optimization Methods for Wireless Communications](https://ieeexplore.ieee.org/abstract/document/10636212)," in IEEE Journal on Selected Areas in Communications, doi: 10.1109/JSAC.2024.3443759.**
 - **C. Pan et al., "[An Overview of Signal Processing Techniques for RIS/IRS-Aided Wireless Systems](https://ieeexplore.ieee.org/document/9847080)," in IEEE Journal of Selected Topics in Signal Processing, vol. 16, no. 5, pp. 883-917, Aug. 2022, doi: 10.1109/JSTSP.2022.3195671.[[code]](https://github.com/wkz20042008/An-Overview-of-Signal-Processing-Techniques-for-RIS-IRS-aided-Wireless-Systems)**
 - **Y. Shen, J. Zhang, S. H. Song and K. B. Letaief, "[Graph Neural Networks for Wireless Communications: From Theory to Practice," in IEEE Transactions on Wireless Communications](https://ieeexplore.ieee.org/abstract/document/9944643), vol. 22, no. 5, pp. 3554-3569, May 2023, doi: 10.1109/TWC.2022.3219840.[[code]](https://github.com/yshenaw/GNN4Com)**
 - **Y. Shen, Y. Shi, J. Zhang and K. B. Letaief, "[Graph Neural Networks for Scalable Radio Resource Management: Architecture Design and Theoretical Analysis](https://ieeexplore.ieee.org/document/9252917)," in IEEE Journal on Selected Areas in Communications, vol. 39, no. 1, pp. 101-115, Jan. 2021, doi: 10.1109/JSAC.2020.3036965.[[code]](https://github.com/yshenaw/GNN-Resource-Management)**
 - **G. Zhou, C. Pan, H. Ren, K. Wang and A. Nallanathan, "[A Framework of Robust Transmission Design for IRS-Aided MISO Communications With Imperfect Cascaded Channels](https://ieeexplore.ieee.org/abstract/document/9180053)," in IEEE Transactions on Signal Processing, vol. 68, pp. 5092-5106, 2020, doi: 10.1109/TSP.2020.3019666.[[code]](https://github.com/ken0225/Framework-of-Robust-Transmission-Design-for-IRS-Aided-MISO-Communications)**
-- **C. Huang, R. Mo and C. Yuen, "[Reconfigurable Intelligent Surface Assisted Multiuser MISO Systems Exploiting Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9110869)," in IEEE Journal on Selected Areas in Communications, vol. 38, no. 8, pp. 1839-1850, Aug. 2020, doi: 10.1109/JSAC.2020.3000835[[code]](https://github.com/baturaysaglam/RIS-MISO-Deep-Reinforcement-Learning).**
+- **C. Huang, R. Mo and C. Yuen, "[Reconfigurable Intelligent Surface Assisted Multiuser MISO Systems Exploiting Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9110869)," in IEEE Journal on Selected Areas in Communications, vol. 38, no. 8, pp. 1839-1850, Aug. 2020, doi: 10.1109/JSAC.2020.3000835. [[code]](https://github.com/baturaysaglam/RIS-MISO-Deep-Reinforcement-Learning)**
 - **E. Björnson, M. Bengtsson and B. Ottersten, "[Optimal Multiuser Transmit Beamforming: A Difficult Problem with a Simple Solution Structure [Lecture Notes]](https://ieeexplore.ieee.org/document/6832894)," in IEEE Signal Processing Magazine, vol. 31, no. 4, pp. 142-148, July 2014, doi: 10.1109/MSP.2014.2312183.[[code]](https://zhuanlan.zhihu.com/p/675596614)**
 - **X. Zhao, W. Deng, M. Li and M. -J. Zhao, "[Robust Beamforming Design for Integrated Sensing and Covert Communication Systems](https://ieeexplore.ieee.org/document/10599524)," in IEEE Wireless Communications Letters, vol. 13, no. 9, pp. 2566-2570, Sept. 2024, doi: 10.1109/LWC.2024.3429149.**
 - **Z. Wang, X. Mu and Y. Liu, "[STARS Enabled Integrated Sensing and Communications](https://ieeexplore.ieee.org/document/10050406)," in IEEE Transactions on Wireless Communications, vol. 22, no. 10, pp. 6750-6765, Oct. 2023, doi: 10.1109/TWC.2023.3245297.[[code]](https://github.com/zhaolin820/stars-enabled-integrated-sensing-and-communications)**
 - **Z. Wang, X. Mu and Y. Liu, "[Near-Field Integrated Sensing and Communications](https://ieeexplore.ieee.org/document/10135096)," in IEEE Communications Letters, vol. 27, no. 8, pp. 2048-2052, Aug. 2023, doi: 10.1109/LCOMM.2023.3280132.[[code]](https://github.com/zhaolin820/near-field-integrated-sensing-and-communications)**
+- **Y. -F. Liu et al., "[A Survey of Recent Advances in Optimization Methods for Wireless Communications](https://ieeexplore.ieee.org/document/10636212)," in IEEE Journal on Selected Areas in Communications, vol. 42, no. 11, pp. 2992-3031, Nov. 2024, doi: 10.1109/JSAC.2024.3443759.**
+
+
 
