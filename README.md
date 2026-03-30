@@ -5,15 +5,17 @@
 当前内容更偏向“资料导航”而不是“项目使用说明”，适合用来快速了解 RSMA 研究版图、顺着作者找论文，或者从论文跳转到公开代码实现。
 
 ## 导航
-- [研究团队整理](#rsma-相关研究团队调研按拼音首字母排序)
-- [国内团队](#国内团队)
-- [International research teams](#international-research-teams)
-- [Collected papers](#collected-papers)
-- [Books](#books)
-- [Survey](#survey)
-- [Letters](#letters)
-- [Paper with code](#paper-with-code)
-- [Optimization](#optimization)
+- [Rate Splitting Multiple Access](#rate-splitting-multiple-access)
+  - [导航](#导航)
+  - [RSMA 相关研究团队调研（按拼音首字母排序）](#rsma-相关研究团队调研按拼音首字母排序)
+    - [国内团队](#国内团队)
+    - [International research teams](#international-research-teams)
+  - [Collected papers](#collected-papers)
+    - [Books](#books)
+    - [Survey](#survey)
+    - [Letters](#letters)
+    - [Paper with code](#paper-with-code)
+    - [Optimization](#optimization)
 
 ## RSMA 相关研究团队调研（按拼音首字母排序）
 ### 国内团队
@@ -52,7 +54,7 @@
 | Yijie (Lina) Mao | MIMO、RSMA、NOMA、5G and beyond | [Personal homepage](https://sist.shanghaitech.edu.cn/maoyj/main.htm) | [IEEE](https://ieeexplore.ieee.org/author/37086178897) | [Google Scholar](https://scholar.google.com.hk/citations?user=PZtdokoAAAAJ&hl=zh-CN&oi=sra) | - |
 | Onur Dizdar | Communications、Error-Correcting Codes、RSMA、NOMA、Signal Processing | - | [IEEE](https://ieeexplore.ieee.org/author/38266703700) | [Google Scholar](https://scholar.google.com.hk/citations?user=Ws8zBXMAAAAJ&hl=zh-CN&oi=sra) | - |
 | Longfei Yin | RSMA、satellite communications、radar and communications | - | [IEEE](https://ieeexplore.ieee.org/author/37088446743) | [Google Scholar](https://scholar.google.com.hk/citations?user=HKV0EWsAAAAJ&hl=zh-CN&oi=sra) | - |
-| Yang Zhao | WIPT、Intelligent Reflecting Surfaces | - | - | [GitHub](https://github.com/snowztail/rate-splitting-multiple-access-for-downlink-communication-systems) | - |
+| Yang Zhao | Intelligent Reflecting Surfaces | - | - | [GitHub](https://github.com/snowztail/rate-splitting-multiple-access-for-downlink-communication-systems) | - |
 | Xinze Lyu | RSMA、radio system prototyping | - | [IEEE](https://ieeexplore.ieee.org/author/325353694497961) | [Google Scholar](https://scholar.google.com.hk/citations?user=dhAQftoAAAAJ&hl=zh-CN&oi=sra) | - |
 | Yunnuo Xu | RSMA | - | [IEEE](https://ieeexplore.ieee.org/author/37088994314) | [Google Scholar](https://scholar.google.com/citations?user=979z53EAAAAJ&hl=zh-CN&oi=sra) | - |
 | Jiawei Xu | RSMA | - | [IEEE](https://ieeexplore.ieee.org/author/37089722068) | [Google Scholar](https://scholar.google.com/citations?user=mFRRgPcAAAAJ&hl=zh-CN&oi=sra) | - |
@@ -84,6 +86,9 @@
 - **B. -J. Chen, R. Y. Chang, F. -T. Chien and H. V. Poor, "[Energy-Efficient Multi-RIS-Aided Rate-Splitting Multiple Access: A Graph Neural Network Approach](https://ieeexplore.ieee.org/document/10530383)," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2024.3400927.[[code]](https://github.com/BingJiaChen/RSMA_GNN_EE)**
 - **R. -J. Reifert, Y. Karacora, D. S. V. Suárez, D. S. R. Rico, D. M. A. Mosquera and A. Sezgin, "[A Practical Study of Rate-Splitting Multiple Access: Single vs. Multiple Common Messages](https://ieeexplore.ieee.org/document/10694543)," 2024 IEEE 25th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Lucca, Italy, 2024, pp. 596-600, doi: 10.1109/SPAWC60668.2024.10694543.[[code]](https://github.com/dviracachas/LabVIEW-Tx-Rx-Workbench)**
 - **Y. Wang, T. Fang and Y. Mao, "[An Efficient Beamforming Optimization Framework for Generalized Rate-Splitting with Imperfect CSIT](https://ieeexplore.ieee.org/document/10938379)," in IEEE Transactions on Communications, doi: 10.1109/TCOMM.2025.3552748.[[code]](https://github.com/YijieLinaMao/GRS-FP-HFPI)**
+- **F. Luo and Y. Mao, "[An Efficient Max-Min Fair Resource Optimization Algorithm for Rate-Splitting Multiple Access](https://ieeexplore.ieee.org/document/11080259)," in IEEE Transactions on Wireless Communications, vol. 25, pp. 787-801, 2026, doi: 10.1109/TWC.2025.3586919.[[code]](https://github.com/YijieLinaMao/RSMA-low-complexity-maxmin-K-user)**
+
+
 
 ### Optimization
 - **Z. -q. Luo, W. -k. Ma, A. M. -c. So, Y. Ye and S. Zhang, "[Semidefinite Relaxation of Quadratic Optimization Problems](https://ieeexplore.ieee.org/document/5447068)," in IEEE Signal Processing Magazine, vol. 27, no. 3, pp. 20-34, May 2010, doi: 10.1109/MSP.2010.936019.**
@@ -102,6 +107,13 @@
 - **Z. Wang, X. Mu and Y. Liu, "[STARS Enabled Integrated Sensing and Communications](https://ieeexplore.ieee.org/document/10050406)," in IEEE Transactions on Wireless Communications, vol. 22, no. 10, pp. 6750-6765, Oct. 2023, doi: 10.1109/TWC.2023.3245297.[[code]](https://github.com/zhaolin820/stars-enabled-integrated-sensing-and-communications)**
 - **Z. Wang, X. Mu and Y. Liu, "[Near-Field Integrated Sensing and Communications](https://ieeexplore.ieee.org/document/10135096)," in IEEE Communications Letters, vol. 27, no. 8, pp. 2048-2052, Aug. 2023, doi: 10.1109/LCOMM.2023.3280132.[[code]](https://github.com/zhaolin820/near-field-integrated-sensing-and-communications)**
 - **Y. -F. Liu et al., "[A Survey of Recent Advances in Optimization Methods for Wireless Communications](https://ieeexplore.ieee.org/document/10636212)," in IEEE Journal on Selected Areas in Communications, vol. 42, no. 11, pp. 2992-3031, Nov. 2024, doi: 10.1109/JSAC.2024.3443759.**
+- **R. Zhang et al., "[Toward Edge General Intelligence With Agentic AI and Agentification: Concepts, Technologies, and Future Directions](https://ieeexplore.ieee.org/document/11339915)," in IEEE Communications Surveys & Tutorials, vol. 28, pp. 4285-4318, 2026, doi: 10.1109/COMST.2026.3651702.**
+- **C. Hu et al., "[Generative AI-Empowered Secure Communications in Space–Air–Ground Integrated Networks: A Survey and Tutorial](https://ieeexplore.ieee.org/document/11309727)," in IEEE Communications Surveys & Tutorials, vol. 28, pp. 4156-4194, 2026, doi: 10.1109/COMST.2025.3646700.**
+
+
+
+
+
 
 
 
