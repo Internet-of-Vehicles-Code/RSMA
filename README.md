@@ -17,7 +17,6 @@
 
 ## RSMA 相关研究团队调研（按拼音首字母排序）
 ### 国内团队
-按“学校 / 院系或实验室 / 老师或团队 / 关键词 / 链接”拆成短字段表格，查找会更直接。
 
 | 学校/机构 | 院系/实验室 | 老师/团队 | 关键词 | 主页 | IEEE | Scholar/其他 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -40,7 +39,6 @@
 | 浙江大学 | 信息与电子工程学院 | 杨照辉团队 | 智能通信计算融合、语义通信、边缘学习、全息通信 | [个人主页](https://person.zju.edu.cn/yangzhaohui) | [IEEE](https://ieeexplore.ieee.org/author/37085667482) | [Google Scholar](https://scholar.google.com/citations?user=YNvyKzAAAAAJ) |
 
 ### International research teams
-也改成按列展开的资料表。
 
 | 团队 | 实验室入口 |
 | --- | --- |
