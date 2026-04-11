@@ -105,6 +105,10 @@
 - **Y. -F. Liu et al., "[A Survey of Recent Advances in Optimization Methods for Wireless Communications](https://ieeexplore.ieee.org/document/10636212)," in IEEE Journal on Selected Areas in Communications, vol. 42, no. 11, pp. 2992-3031, Nov. 2024, doi: 10.1109/JSAC.2024.3443759.**
 - **R. Zhang et al., "[Toward Edge General Intelligence With Agentic AI and Agentification: Concepts, Technologies, and Future Directions](https://ieeexplore.ieee.org/document/11339915)," in IEEE Communications Surveys & Tutorials, vol. 28, pp. 4285-4318, 2026, doi: 10.1109/COMST.2026.3651702.**
 - **C. Hu et al., "[Generative AI-Empowered Secure Communications in Space–Air–Ground Integrated Networks: A Survey and Tutorial](https://ieeexplore.ieee.org/document/11309727)," in IEEE Communications Surveys & Tutorials, vol. 28, pp. 4156-4194, 2026, doi: 10.1109/COMST.2025.3646700.**
+- **R. Liu, M. Li, Q. Liu and A. Lee Swindlehurst, "[SNR/CRB-Constrained Joint Beamforming and Reflection Designs for RIS-ISAC Systems](https://ieeexplore.ieee.org/document/10364735)," in IEEE Transactions on Wireless Communications, vol. 23, no. 7, pp. 7456-7470, July 2024, doi: 10.1109/TWC.2023.3341429.[[code]](https://github.com/RangLiu0706/SNR-CRB-constrained-beamforming-for-RIS-ISAC)**
+- **Q. Zhu, M. Li, R. Liu and Q. Liu, "[Cramér-Rao Bound Optimization for Active RIS-Empowered ISAC Systems](https://ieeexplore.ieee.org/document/10496515)," in IEEE Transactions on Wireless Communications, vol. 23, no. 9, pp. 11723-11736, Sept. 2024, doi: 10.1109/TWC.2024.3384501.[[code]](https://github.com/RangLiu0706/Active-RIS-ISAC-CRB)**
+
+
 
 
 
